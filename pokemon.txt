@@ -1,0 +1,1 @@
+This will be the pokemon  text file that I will use to enter into the program.
